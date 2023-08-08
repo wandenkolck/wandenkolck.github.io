@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="assets/img/fiv_icon.png">
+    
+    <link rel="stylesheet" href="style.css" class="css">
+    
+    <title>vai corinthias</title>
+</head>
+<body>
+    <header class="content">
+        <div class="logo">
+            <img src="jj.png" alt="Imagem da logo Pizza" width="90px">
+            <h3>Timao</h3>
+        </div>
+        <nav>
+            <ul class="list-menu">
+            
+                <li><a href="#">home</a></li>
+                <li><a href="#">sobre </a></li>
+                <li><a href="#">titulos </a></li>
+                <li><a href="#">cidade </a></li>
+           
+        
+                <li><a href="#"><i class="bi bi-cart2"></i></a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="first-section">
+        <div class="conteudo-principal">
+            <h1>sangue no olho!!!</h1>
+            <h2> O time mais amado do Brasil</h2>
+            <div class="btn">
+                <button class="reservar" ><a href=><a href="https://www.ingressoscorinthians.com.br/"> seja um fiel torcedor!</a></button> </a></button>
+                <button class="montar" ><a href="https://www.ingressoscorinthians.com.br/"> comprar ingresso!</a></button>
+                
+            </div>
+        </div>
+    </section>
+</body>
+</html>
